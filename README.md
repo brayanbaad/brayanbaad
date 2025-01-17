@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e6113f70-55ad-4ce2-90ec-e06a240f96c2" >
     <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
@@ -14,9 +11,6 @@
      </a>
 </div>
 <br></br>
-  
-
-
 ### 👨🏻‍💻 &nbsp; Acerca de mí
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
@@ -25,9 +19,7 @@
 ✍️ &nbsp;En mi tiempo libre. me dedico a la investigacion de nuevas tecnologias y el desarrollo de software como practica .\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a brayan.baa455@gmail.com! Intentaré responderte lo antes posible..\
 
-
 ---
-
 ### 🛠 &nbsp;Tecnologias y Herramientas
 <img src="https://github.com/user-attachments/assets/36c71008-3c9f-48bf-ad83-7c4c935fee60" width="50">
 <img src="https://github.com/user-attachments/assets/976d2d46-0355-4cd8-82d8-e3474819fed5" width="50">
