@@ -10,7 +10,6 @@
         <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
      </a>
 </div>
-<br></br>
 ### 👨🏻‍💻 &nbsp; Acerca de mí
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
